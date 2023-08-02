@@ -10,11 +10,11 @@
   
 -  Looking forward to collaborate on **Open Source Projects**
 
-- 👨‍💻 Currently working on **[MERN Stack](https://github.com/devesh2511/mern-login)**
+- 👨‍💻 Currently working on **[MERN Stack]**
 
 - 📫 Reach 👇<br>
 
-[![](https://img.shields.io/badge/-harshkanoje-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-kanoje-393aa4251/)]((https://www.linkedin.com/in/harsh-kanoje-393aa4251/))
+[![](https://img.shields.io/badge/-harshkanoje-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-kanoje-393aa4251/)](https://www.linkedin.com/in/harsh-kanoje-393aa4251/)
 [![](https://img.shields.io/badge/-har.xsh._-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/har.xsh._/)](https://www.instagram.com/har.xsh._/)
 [![](https://img.shields.io/badge/-kanoje.harsh8@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:Harshkanoje)](mailto:kanoje.harsh8@gmail.com)
 [![](https://img.shields.io/badge/-harshkanoje-171515?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/harshkanoje))
