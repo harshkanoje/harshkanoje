@@ -10,7 +10,7 @@
   
 -  Looking forward to collaborate on **Open Source Projects**
 
-- 👨‍💻 Currently working on **[MERN Stack]**
+- 👨‍💻 Currently working on MERN Stack
 
 - 📫 Reach 👇<br>
 
