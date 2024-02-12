@@ -34,7 +34,7 @@
 ![React.JS](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
-
+<!---
 <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
    
   <br/>
@@ -51,7 +51,7 @@
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshkanoje&theme=radical" height=auto width=80%"  />  
 </p>
-
+--->
 <!---
 harshkanoje/harshkanoje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
